@@ -1,2 +1,5 @@
 # Portfolio-website
-This is a portfolio-website using HTML,CSS,JS.
+Showcasing my journey through pixels and lines.
+
+
+ link	🔗: https://santoshchaurasiyaportfolio.netlify.app
